@@ -1,4 +1,4 @@
-## 📌 React Gelişmiş Başlangıç Template'i
+## 📌 Advanced React Starter Template
 
 Bu proje, **React uygulamalarına başlamak için gelişmiş bir template** olarak tasarlanmıştır. İçerisinde hazır olarak **React Query, Redux Toolkit, React Router, Sentry, Error Boundary ve hata yönetimi** entegre edilmiştir.
 
